@@ -7,4 +7,9 @@ The `_sass` directory is not used.  If you plan to make a complicated site then 
 
 ---
 
-Just close this repository and use it as your Pages repo.  You should probably delete the README.md as well.
+## To use:
+- Just clone this repository and use it as your Pages repo.  
+- You should probably delete `README.md`.
+- Start customizing `_layouts/default.html` and `style.css`.
+
+
