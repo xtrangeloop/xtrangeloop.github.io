@@ -50,8 +50,7 @@ exclude: []
 # Default Front Matter
 # Configure default front matter for all files matching the defined scope.
 defaults:
-  -
-    scope:
+  - scope:
       path:     ""        # All files
     values:
       layout:   "default"
@@ -62,3 +61,7 @@ defaults:
       author:   "Xtrangeloop"
       description: ""
 
+  - scope:
+      path:     "assets/img"        # images
+    values:
+      image:    true
