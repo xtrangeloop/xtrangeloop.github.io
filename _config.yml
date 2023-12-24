@@ -3,15 +3,13 @@
 #########################
 
 # Your site's title.  Accessed with: {{ site.title }}
-title: Your Site's Name
+title: "Xtrangeloop's Site"
 
 
 # Your site's description.  Accessed with: {{ site.description }}
 # ">-" indicates newlines should be ignored until the next entry.
 description: >- 
-  This is the description of your site.
-  It can be multiple lines long.
-  This description will appear in the <head> of your pages.
+  This is a website.
 
 
 # Your email address.  Accessed with: {{ site.email }}
@@ -21,7 +19,7 @@ email: webmaster@sitename.com
 # Your site's full URL, including protocol, domain, and (if you need it) port number.
 # Note: Do not include a "/" at the end of the url.
 # Accessed with: {{ site.url }}
-url: https://your-github-username.github.io 
+url: https://xtrangeloop.github.io 
 
 
 # Your site's subpath (if needed).  For example, "/blog" or "/site".
@@ -61,6 +59,6 @@ defaults:
       category: ""
       tags:     ""
       image:    ""
-      author:   "Your Name"
+      author:   "Xtrangeloop"
       description: ""
 
