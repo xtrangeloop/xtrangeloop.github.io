@@ -5,7 +5,7 @@ description: "Winter Fest Contribution"
 
 # {{page.title}}
 
-<h1 class="w3-text-teal">Welcome to Venus!</h1>
+<h3 class="w3-text-teal">Welcome to Venus!</h3>
 
 <div class="w3-display-container"> 
   
