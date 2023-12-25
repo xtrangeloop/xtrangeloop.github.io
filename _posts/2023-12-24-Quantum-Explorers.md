@@ -24,7 +24,7 @@ You must navigate the invisible maze by making decisions at various points. Be c
 - **Visibility Mechanics:** The paths of the maze occasionally become visible for brief moments, either through environmental changes or player actions, providing clues for navigation.
 - **Resource Management:** Players have limited resources, emphasizing careful planning and the need for strategy to survive.
 
-<h4 class="w3-text-teal">Puzzle 1: The Radiant Garden</h4>
+<h3 class="w3-text-teal">Puzzle 1: The Radiant Garden</h3>
 
 Once you calm down, you realize that you're surrounded by strange, bioluminescent flora that appear to exist in one of two quantum states: Active or glowing, and Inactive or not-glowing. You must use the logs from previous explorers as well as environmental clues from the garden itself to align the states of the flora correctly and open the path. 
 
