@@ -28,13 +28,13 @@ You must navigate the invisible maze by making decisions at various points. Be c
 
 Once you calm down, you realize that you're surrounded by strange, bioluminescent flora that appear to exist in one of two quantum states: Active or glowing, and Inactive or not-glowing. You must use the logs from previous explorers as well as environmental clues from the garden itself to align the states of the flora correctly and open the path. 
 
-### Reminders
+##### Reminders
    - Interacting with one plant affects the states of other plants (due to quantum entanglement)
    - The more time you take, the less resources you have for the remainder of the labyrinth
    - Don't forget to reference any items you might have found already as they might aid you in solving this puzzle
 
 
-#### Solution
+##### Solution
 
 - Players must deduce the correct order of interacting with the plants, based on the entanglement pattern. For example, activating one plant might deactivate another, so players must determine the sequence that results in all plants being in the 'Active' state simultaneously.
 - Once the puzzle is solved, the plants illuminate a hidden path leading out of the garden.
