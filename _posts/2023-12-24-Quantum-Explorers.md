@@ -5,7 +5,7 @@ description: "Winter Fest Contribution"
 
 # {{page.title}}
 
-<h2 class="w3-text-teal">Welcome to Venus!</h2>
+<h2 class="w3-text-teal">Welcome to Venus</h2>
 
 ![A depiction of Venus reimagined with a tropical climate, featuring lush, swampy jungles. The landscape is vibrant with dense vegetation. An astronaut stands in under the poisonous atmosphere.](/assets/img/Venus.png "Venus reimagined with a tropical climate, featuring lush, swampy jungles under a poisonous atmosphere."){:.w3-image}
 
@@ -13,7 +13,7 @@ description: "Winter Fest Contribution"
 
 Just as you touch the largest crystal you've ever seen, the world seems to shift around you, evoking a sense of disorientation, unknown danger, and cosmic dread. The lush jungle of the Venusian environment suddenly seems alien and hostile as a thick, misty atmosphere settles over the strange flora. You shake off the feeling of dread and turn to go the way you came, only to find your path blocked. 
 
-<h1 class="w3-text-red"> _Escape the Venusian Labyrinth!_ </h1>
+<h1 class="w3-text-red">Escape the Venusian Labyrinth!</h1>
 
 The Venusian landscape is vibrant with dense vegetation. The poisonous atmosphere is heavy with a sense of isolation and impending doom. You are ill-preparred; your oxygen and water are limited. The only other items in your pack are an energy bar, an iPad with stylus, and a futuristic device that allows you to play messages and recordings. _This comes in handy as you almost immediately uncover logs from previous explorers who failed to escape the maze._ 
 
