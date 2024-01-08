@@ -3,13 +3,13 @@
 #########################
 
 # Your site's title.  Accessed with: {{ site.title }}
-title: "Xtrangeloop's Site"
+title: "Strange Loops"
 
 
 # Your site's description.  Accessed with: {{ site.description }}
 # ">-" indicates newlines should be ignored until the next entry.
 description: >- 
-  This is a website.
+  This is a blog of twisty passages all alike.
 
 
 # Your email address.  Accessed with: {{ site.email }}
