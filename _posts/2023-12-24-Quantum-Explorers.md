@@ -1,9 +1,9 @@
 ---
-title: "Quantum Explorers"
-description: "Winter Fest Contribution"
+title: "Lovecraft's Venus"
+description: "IBM Quantum Explorers - Winter Fest Contribution"
 ---
 
-# Welcome to Lovecraft's Venus
+# Welcome to {{ title }}
 
 ![A depiction of Venus reimagined with a tropical climate, featuring lush, swampy jungles. The landscape is vibrant with dense vegetation. An astronaut stands in under the poisonous atmosphere.](/assets/img/Venus.png "Venus reimagined with a tropical climate, featuring lush, swampy jungles under a poisonous atmosphere."){:.w3-image}
 
