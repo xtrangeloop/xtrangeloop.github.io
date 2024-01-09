@@ -9,7 +9,7 @@ title: "Strange Loops"
 # Your site's description.  Accessed with: {{ site.description }}
 # ">-" indicates newlines should be ignored until the next entry.
 description: >- 
-  blog of twisty passages all alike 
+  blog of twisty passages all alike
 
 
 # Your email address.  Accessed with: {{ site.email }}
