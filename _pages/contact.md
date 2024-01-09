@@ -14,7 +14,7 @@ This journey is characterized by the developments of humanity, from the first in
 
 I will share my thoughts and opinions spanning vast subjects and experiences. I hope to build a generally fashionable community for literary, artistic, and political people that fosters creativity and growth, both on an individual and a cultural level.  
 
-                                                                                               Namaste ( नमस्ते ) 
+<p style="text-align:center;"> Namaste ( नमस्ते ) </p>
 
 
 
