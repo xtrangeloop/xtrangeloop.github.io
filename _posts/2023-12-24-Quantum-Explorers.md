@@ -3,9 +3,7 @@ title: "Quantum Explorers"
 description: "Winter Fest Contribution"
 ---
 
-# {{page.title}}
-
-<h2 class="w3-text-teal">Welcome to Lovecraft's Venus</h2>
+# Welcome to Lovecraft's Venus
 
 ![A depiction of Venus reimagined with a tropical climate, featuring lush, swampy jungles. The landscape is vibrant with dense vegetation. An astronaut stands in under the poisonous atmosphere.](/assets/img/Venus.png "Venus reimagined with a tropical climate, featuring lush, swampy jungles under a poisonous atmosphere."){:.w3-image}
 
