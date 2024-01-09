@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 permalink: "/contact.html"
-description: "Contact information."
+description: "About Me."
 ---
 
 Welcome to Strange Loops
@@ -14,7 +14,13 @@ This journey is characterized by the developments of humanity, from the first in
 
 I will share my thoughts and opinions spanning vast subjects and experiences. I hope to build a generally fashionable community for literary, artistic, and political people that fosters creativity and growth, both on an individual and a cultural level.  
 
-Namaste ( नमस्ते ) 
+                                                                                               Namaste ( नमस्ते ) 
+
+
+
+
+
+
 
 Contact me by email at: [{{site.email}}](mailto:{{ site.email }}).
 
