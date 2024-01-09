@@ -4,7 +4,7 @@ permalink: "/contact.html"
 description: "About Me."
 ---
 
-Welcome to Strange Loops
+<p>Welcome to the {{ site.description }}</p>
 
 A virtual [salon](https://en.wikipedia.org/wiki/Salon_%28gathering%29#Salons_outside_of_France), in the traditional sense.
 
