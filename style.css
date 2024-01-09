@@ -1,12 +1,55 @@
 * {
-  font-family: FreeMono, monospace;
+  font-family: Verdana, sans-serif;
+  line-height: 1.5;
+  background-color: rgb(230, 230, 230);
+  color: rgb(25, 25, 25);
 }
 
 body {
-  margin: 20px;
+  max-width: 960px;
+  margin: auto;
+  padding: 20px;
+  font-size: calc(15px + 0.390625vw);
+}
+
+menu, nav {
+  text-align: center;
+  margin: 3px;
 }
 
 nav li {
   display: inline;
   padding-right: 20px;
+}
+
+nav ul {
+  margin: 2px;
+}
+
+main {
+  min-height: 100vh;
+}
+
+code, pre {
+  font-family: 'Courier New', monospace;
+  background-color: rgb(25, 25, 25);
+  color: rgb(230, 230, 230);
+  padding: 0px 3px;
+}
+
+pre {
+  margin: 1em;
+}
+
+footer p {
+  color: rgb(127, 127, 127);
+  font-style: italic;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.7rem;
 }
