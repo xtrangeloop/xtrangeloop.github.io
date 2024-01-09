@@ -9,7 +9,9 @@ When it became apparent that we would lose our beloved Anisa, my partner suggest
 
 Through many tears, I tried to think about the joy we would experience and wanted to make plans while Anisa was still with me, because I wanted to feel like she was part of this journey. Unfortunately, that was too much for me and I was only able to capture the idea of places we might vaguely want to experience. Leaving all the details and minutiae until after her death. 
 
-This is a document of our journey through time and space. 
+This idea was space. 
+
+This will document our journey through time and space. 
 
 I will share my heartfelt emotions as I attempt to traverse the world sans Anisa. At the very least, this will be a place to reflect and share this journey with our friends. 
 
