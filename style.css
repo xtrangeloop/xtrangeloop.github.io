@@ -12,7 +12,7 @@ body {
   font-size: calc(15px + 0.390625vw);
 }
 
-menu, menu h1, nav {
+header, header h1, nav {
   text-align: center;
   margin: 3px;
 }
