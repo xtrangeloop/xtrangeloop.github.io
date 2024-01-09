@@ -11,7 +11,7 @@ Through many tears, I tried to think about the joy we would experience and wante
 
 Put simply, 
 
-<p style="text-align:center;"> the idea was space. </p>
+<p style="text-align:justify;"> the idea was space. </p>
 
 This will document our journey through time and space. 
 
