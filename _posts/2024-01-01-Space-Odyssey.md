@@ -11,6 +11,6 @@ Through many tears, I tried to think about the joy we would experience and wante
 
 This is a document of our journey through time and space. 
 
-I will share my heartfelt emotions as I attempt to traverse the worlds sans Anisa. At the very least, this will be a place to reflect and to share this journey with others. 
+I will share my heartfelt emotions as I attempt to traverse the world sans Anisa. At the very least, this will be a place to reflect and share this journey with our friends. 
 
 I hope you stay for the beautiful memories we will be building along the way. 
