@@ -22,5 +22,5 @@ I will share my thoughts and opinions spanning vast subjects and experiences. I 
 
 
 
-Contact me by email at: [{{site.email}}](mailto:{{ site.email }}).
+<!-- Contact me by email at: [{{site.email}}](mailto:{{ site.email }}). -->
 
