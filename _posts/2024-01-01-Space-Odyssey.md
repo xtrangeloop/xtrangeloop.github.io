@@ -10,7 +10,7 @@ When it became apparent that we would lose our beloved Anisa, my partner suggest
 Through many tears, I tried to think about the joy we would experience and wanted to make plans while Anisa was still with me, because I wanted to feel like she was part of this journey. Unfortunately, that was too much for me and I was only able to capture the idea of places we might vaguely want to experience. Leaving all the details and minutiae until after her death. 
 
 Put simply, 
-                the           idea          was            space
+<p align:center;> the           idea          was            space. </p>
 
 This will document our journey through time and space. 
 
