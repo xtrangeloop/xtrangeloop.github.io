@@ -3,7 +3,7 @@ title: "The Star Chart"
 description: "This is the plan"
 ---
 
-# {{page.title}}
+# [{{page.title}}](https://maps.app.goo.gl/75U5Hyu2Tk3J1YWM9?g_st=i)
 
 
 <!-- The first official stop on our Space Odyssey journey was to {{page.description}}
