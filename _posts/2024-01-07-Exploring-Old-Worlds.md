@@ -1,14 +1,30 @@
 ---
-title: "Exploring Old Worlds - The Quirky Orbit of St. Augustine"
-description: "St. Augustine lays claim as the oldest city in the US"
+title: "Exploring Old Worlds"
+description: "The Quirky Orbit of St. Augustine"
 ---
 
 # {{page.title}}
 
 
-<!-- The first official stop on our Space Odyssey journey was to {{page.description}}
+The first official stop on our Space Odyssey was to {{page.description}}, a city that promised a journey back in time. But, as we soon discovered, this jewel had a few surprises up its Floridian sleeve!
 
-In your post, you can delve into the contrast between your expectations of historical authenticity and the reality of the 'tourist-trapped' atmosphere. Emphasizing the joy and laughter you shared with your partner in these discoveries can be a beautiful way to express how this journey is helping in healing and bringing light moments. Such stories not only resonate with your audience but also keep Anisa's spirit a part of your journey, as you embrace both the serious and lighter sides of travel.
+Lauded as the nation's [oldest continuously occupied city](https://www.visittheusa.com/destination/st-augustine-and-ponte-vedra), St. Augustine had a playful twist. We expected cobblestone streets echoing centuries of history, only to find paths paved with brick — a charming mismatch that set the tone for our visit. It was as if we'd landed on a planet where history and whimsy collided.
+
+We arrived in the early evening, expecting a sleepy historic downtown still capped by Christmas lights and ripe for night photography... only to be met with the oonst oonst of nightclub music and crowds all around. We decided to skip the night photo excursion. 
+
+The next morning, we went in search of the legendary lion bridge for a sunrise photo, expecting to find a picturesque view of history... only to be met by a very modern bridge undergoing construction. 
+
+In fact, each step through the city was a revelation in itself. From the old Spanish fort that whispered tales of bygone battles to the ghost tour haunts along the beach, St. Augustine was a mix of inauthentic history and delightful tourist antics —with a minisule smattering of _real_ history. It was a reminder that even in the most historic places, there's room for a little fun.
+
+As we strolled the historic district, expecting ancient architecture, we stumbled upon cinderblocks peeking out from faux stucco, alongside the erection of brand new cinderblock buildings. 
+
+We hadn't laughed so hard in who knows how long. 
+
+It was a beautiful paradox. A place where history is revered, yet playfully reimagined. Where every street corner seemed to tell a story, some steeped in truth, but many more in fanciful lore.
+
+Our visit to St. Augustine was very much a lesson in finding joy in the unexpected and laughter in the midst of recovery. It taught us that sometimes, the best way to honor the past is to embrace the present in all its quirky glory.
+
+<!-- In your post, you can delve into the contrast between your expectations of historical authenticity and the reality of the 'tourist-trapped' atmosphere. Emphasizing the joy and laughter you shared with your partner in these discoveries can be a beautiful way to express how this journey is helping in healing and bringing light moments. Such stories not only resonate with your audience but also keep Anisa's spirit a part of your journey, as you embrace both the serious and lighter sides of travel.
 
 Absolutely! Here's an engaging initial post for "The Quirky Orbit of St. Augustine":
 
