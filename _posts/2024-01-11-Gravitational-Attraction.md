@@ -5,6 +5,7 @@ description: "Navigating Friendships, Space, and Art"
 
 # {{page.title}}
 
+_Coming Soon_
 <!--- We found ourselves pulled into 
 The scientific term for pulling things towards a point in space is "gravitational attraction" or simply "gravity." This fundamental force of nature is what causes objects with mass to be attracted to each other. In the context of space, it's the force that keeps planets in orbit around stars, moons in orbit around planets, and governs the motion of galaxies and other celestial bodies.
 
