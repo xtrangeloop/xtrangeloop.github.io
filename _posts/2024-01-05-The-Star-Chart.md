@@ -3,7 +3,9 @@ title: "The Star Chart"
 description: "Charting Our Cosmic Road Trip"
 ---
 
-# [{{page.title}}](https://maps.app.goo.gl/75U5Hyu2Tk3J1YWM9?g_st=i)
+# {{page.title}}
+
+<!--https://maps.app.goo.gl/75U5Hyu2Tk3J1YWM9?g_st=i)-->
 
 As we embark on our Space Odyssey, I invite you, dear reader, to breath life into the journey. My North Star is not simply the destination, but the promise of shared experiences and new horizons. {{page.title}} should be a living, breathing map of possibilities, an invitation to adventure and serendipity. 
 
