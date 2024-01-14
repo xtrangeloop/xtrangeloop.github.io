@@ -6,7 +6,15 @@ description: "Navigating Friendships, Space, and Art"
 # {{page.title}}
 
 _Coming Soon_
-<!--- We found ourselves pulled into 
+<!--- 
+
+We saw friends from work, friends from school, friends from trips, friends we'd met from England, from Korea, and from right in Florida. What a wonderful trip. 
+
+One day with each is much too short, though sweet. 
+
+With each friend group, we were able to share our love of art and history as we enjoyed the Kennedy Space Center, a fancy hotel and its sculpture garden, and a fantastic gem of an eclectic museum. 
+
+We found ourselves pulled into 
 The scientific term for pulling things towards a point in space is "gravitational attraction" or simply "gravity." This fundamental force of nature is what causes objects with mass to be attracted to each other. In the context of space, it's the force that keeps planets in orbit around stars, moons in orbit around planets, and governs the motion of galaxies and other celestial bodies.
 
 
