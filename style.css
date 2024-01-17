@@ -112,13 +112,12 @@ a.reversefootnote {
 
 /* https://css-tricks.com/ordered-lists-unicode-symbols/ */
 ul.star {
-  list-style:disc url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7);
+  list-style: none outside none;
 }
 
 .star li:before {
   content: "\070D";
-  position: relative;
-  left:-0.5em;
+  margin-left: -14px;
 }
 
 
