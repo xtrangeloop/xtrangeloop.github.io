@@ -19,6 +19,6 @@ title: "Home"
 
 <ul class="star">
 {% for post in site.posts %}
-  <li> <a href="{{post.url | prepend: site.baseurl }}">{{post.title}}</a> &middot; {{ post.date  | date: "%Y-%m-%d" }} &middot; <i>{{ post.description }}</i></li>
+  <li> TESTING <a href="{{post.url | prepend: site.baseurl }}">{{post.title}}</a> &middot; {{ post.date  | date: "%Y-%m-%d" }} &middot; <i>{{ post.description }}</i></li>
 {% endfor %}
 </ul>
