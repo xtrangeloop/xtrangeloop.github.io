@@ -1,15 +1,14 @@
-* {
-  font-family: FreeMono, sans-serif;
-  line-height: 1.5;
-  background-color: rgb(230, 230, 230);
-  color: rgb(25, 25, 25);
-}
-
 body {
   max-width: 960px;
   margin: auto;
   padding: 20px;
+  
   font-size: calc(15px + 0.390625vw);
+  font-family: FreeMono, sans-serif;
+  line-height: 1.5;
+  
+  background-color: rgb(230, 230, 230);
+  color: rgb(25, 25, 25);
 }
 
 header, header h1, nav {
@@ -32,8 +31,8 @@ main {
 
 code, pre {
   font-family: 'Courier New', monospace;
-  background-color: rgb(25, 25, 25);
-  color: rgb(230, 230, 230);
+  background-color: rgb(64, 64, 64);
+  color: rgb(225, 225, 225);
   padding: 0px 3px;
 }
 
@@ -41,7 +40,7 @@ pre {
   margin: 1em;
 }
 
-footer p {
+footer {
   color: rgb(127, 127, 127);
   font-style: italic;
 }
@@ -52,4 +51,61 @@ h1 {
 
 h2 {
   font-size: 1.7rem;
+}
+
+summary:hover {
+  cursor: pointer;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table th, table td {
+  padding: 5px;
+  border: 1px solid rgb(64, 64, 64);
+}
+
+table th {
+  color: rgb(230, 230, 230);
+  background-color: rgb(64, 64, 64);
+}
+
+table td {
+}
+
+table tr:nth-child(even){
+  background-color: rgb(215, 215, 215);
+}
+
+table tr:hover {
+  background-color: rgb(200, 200, 200);
+}
+
+.footnotes li {
+  position: relative;
+  word-break: break-word;  /* Force breaks in the back-reference list. */
+  opacity: 0.6;
+}
+
+.footnotes li:target {
+  opacity: 1;
+}
+
+.footnotes li:target::before {
+  position: absolute;
+  top: -5px;
+  right: -8px;
+  bottom: -8px;
+  left: -45px;
+  pointer-events: none;
+  content: "";
+  border: 2px solid rgb(25, 25, 25);
+  border-radius: 5px;
+}
+
+/* Keep the back arrow and ID number together across line breaks. */
+a.reversefootnote {
+  white-space: nowrap;
 }
