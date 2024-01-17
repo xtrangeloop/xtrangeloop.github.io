@@ -19,6 +19,6 @@ title: "Home"
 
 <ul class="star">
 {% for post in site.posts %}
-  <li markdown="1">{{ post.date  | date: "%Y-%m-%d" }} &middot; [{{ post.title }}]({{post.url | prepend: site.baseurl }}) &middot; _{{ post.description }}_ </li>
+  <li>{{ post.date  | date: "%Y-%m-%d" }} &middot; <a href="{{post.url | prepend: site.baseurl }}"> &middot; {{ post.description }} </li>
 {% endfor %}
 </ul>
