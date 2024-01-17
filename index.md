@@ -17,6 +17,8 @@ title: "Home"
 
 ## Recent Twisty Passages
 
+<ul class="star">
 {% for post in site.posts %}
-* {{ post.date  | date: "%Y-%m-%d" }} ܍ [{{ post.title }}]({{post.url | prepend: site.baseurl }}) &middot; _{{ post.description }}_
+<li>{{ post.date  | date: "%Y-%m-%d" }} &middot; [{{ post.title }}]({{post.url | prepend: site.baseurl }}) &middot; _{{ post.description }}_ </li>
 {% endfor %}
+</ul>
