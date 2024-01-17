@@ -110,24 +110,17 @@ a.reversefootnote {
   white-space: nowrap;
 }
 
-
+/* https://css-tricks.com/ordered-lists-unicode-symbols/ */
 ul.star {
-  margin-left:40px;
-  margin-top:1px;
-  padding-top:1px;
-  font-size:1.5em;
   list-style:disc url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7);
 }
 
 .star li:before {
   content: "\070D";
-  position:relative;
+  position: relative;
   left:-0.5em;
 }
 
-.star li {
-  margin-bottom:10px;
-}
 
 
 
