@@ -18,5 +18,5 @@ title: "Home"
 
 {% for post in site.posts %}
 * {{ post.date  | date: "%Y-%m-%d" }} - [{{ post.title }}]({{post.url | prepend: site.baseurl }})
-     * {{ post.description }}
+     * _{{ post.description }}_
 {% endfor %}
