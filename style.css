@@ -116,7 +116,7 @@ ul.star {
 }
 
 .star li:before {
-  content: "\070D";
+  content: "܀";
   margin-left: -14px;
 }
 
