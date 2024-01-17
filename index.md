@@ -14,14 +14,10 @@ title: "Home"
 
 <h2>Recent Posts</h2>
 
-<ul>
-  {% for post in site.posts %}
-    <li> 
-      <h3><a href="{{post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-      <p style="padding-left:20px;">{{ post.date  | date: "%Y-%m-%d" }} " - " {{ post.description }}</p> 
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+    <h3><a href="{{post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <p style="padding-left:20px;">{{ post.date  | date: "%Y-%m-%d" }} - {{ post.description }}</p> 
+{% endfor %}
 
 <!---
 <OL>
