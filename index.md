@@ -19,5 +19,5 @@ I find that regardless of our differences, unexplainable loops intricately spira
 ### Recent Posts
 
 {% for post in site.posts %}
-* {{ post.date  | date: "%Y-%m-%d" }} - [{{ post.title }}]({{post.url | prepend: site.baseurl }}) - {{ post.description }}
+{{ post.date  | date: "%Y-%m-%d" }} - [{{ post.title }}]({{post.url | prepend: site.baseurl }}) - {{ post.description }}
 {% endfor %}
