@@ -14,8 +14,9 @@ title: "Home"
 {% endfor %}
 --->
 
-## Connections
+## Recent Twisty Passages
 
 {% for post in site.posts %}
-* [{{ post.title }}]({{post.url | prepend: site.baseurl }}) - {{ post.description }}
+* {{ post.date  | date: "%Y-%m-%d" }} - [{{ post.title }}]({{post.url | prepend: site.baseurl }})
+<p style="padding-left:35px;"> {{ post.description }} </p>
 {% endfor %}
