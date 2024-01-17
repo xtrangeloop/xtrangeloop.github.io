@@ -116,7 +116,7 @@ ul.star {
 }
 
 .star li:before {
-  content: "܀";
+  content: '܍';
   margin-left: -14px;
 }
 
