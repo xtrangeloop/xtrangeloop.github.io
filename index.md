@@ -17,5 +17,5 @@ title: "Home"
 ## Recent Twisty Passages
 
 {% for post in site.posts %}
-* {{ post.date  | date: "%Y-%m-%d" }} * [{{ post.title }}]({{post.url | prepend: site.baseurl }}) _{{ post.description }}_
+* {{ post.date  | date: "%Y-%m-%d" }} &middot; [{{ post.title }}]({{post.url | prepend: site.baseurl }}) &ordm; _{{ post.description }}_
 {% endfor %}
