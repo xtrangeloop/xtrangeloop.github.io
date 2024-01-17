@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-# Welcome to my {{ site.description }}.
+## Welcome to my {{ site.description }}.
 
  <p style="padding-left:35px;"> I find that regardless of our differences, unexplainable loops intricately spiral through our world, winding along, connecting us... </p>
 
