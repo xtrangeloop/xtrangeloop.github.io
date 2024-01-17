@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-<h1>Welcome to my {{ site.description }}.</h1>
+# Welcome to my {{ site.description }}.
 
 <!---
 {% for post in site.posts %}
@@ -15,8 +15,8 @@ title: "Home"
 <h2>Recent Posts</h2>
 
 {% for post in site.posts %}
-    <h3><a href="{{post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-    <p style="padding-left:20px;">{{ post.date  | date: "%Y-%m-%d" }} - {{ post.description }}</p> 
+### [{{ post.title }}]({{post.url | prepend: site.baseurl }})
+<p style="padding-left:35px;">{{ post.date  | date: "%Y-%m-%d" }} - {{ post.description }}</p> 
 {% endfor %}
 
 <!---
