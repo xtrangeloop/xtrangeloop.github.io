@@ -110,7 +110,7 @@ a.reversefootnote {
   white-space: nowrap;
 }
 
-/* https://css-tricks.com/ordered-lists-unicode-symbols/ */
+/* https://stackoverflow.com/a/19006568/ */
 ul.star {
   list-style: none outside none;
 }
