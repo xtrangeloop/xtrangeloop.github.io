@@ -17,5 +17,5 @@ title: "Home"
 ### Recent Posts
 
 {% for post in site.posts %}
-<ul> [{{ post.title }}]({{post.url | prepend: site.baseurl }}) - {{ post.description }} </ul>
+- [{{ post.title }}]({{post.url | prepend: site.baseurl }}) - {{ post.description }}
 {% endfor %}
