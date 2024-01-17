@@ -14,7 +14,7 @@ title: "Home"
 {% endfor %}
 --->
 
-## Recent Posts
+## Connections
 
 {% for post in site.posts %}
 * [{{ post.title }}]({{post.url | prepend: site.baseurl }}) - {{ post.description }}
