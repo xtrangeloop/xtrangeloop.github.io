@@ -12,14 +12,16 @@ title: "Home"
 {% endfor %}
 --->
 
-<H4>Recent Posts</H4>
+<h2>Recent Posts</h2>
 
-<DL>
+<ul>
   {% for post in site.posts %}
-  <DT> <h1><a href="{{post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1> <h5>{{ post.date  | date: "%Y-%m-%d" }}</h5> </DT>
-  <DD> <h4>{{ post.description }}</h4> </DD>
+    <li> 
+      <h3><a href="{{post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+      <p style="padding-left:20px;">{{ post.date  | date: "%Y-%m-%d" }} " - " {{ post.description }}</p> 
+    </li>
   {% endfor %}
-</DL>
+</ul>
 
 <!---
 <OL>
