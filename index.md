@@ -18,6 +18,7 @@ title: "Home"
   {% for post in site.posts %}
   <DT> <h1><a href="{{post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1> <h5>{{ post.date  | date: "%Y-%m-%d" }}</h5> </DT>
   <DD> <h4>{{ post.description }}</h4> </DD>
+  {% endfor %}
 </DL>
 
 <!---
