@@ -7,7 +7,7 @@ description: "IBM Quantum Explorers - Winter Fest Contribution"
 
 ![A depiction of Venus reimagined with a tropical climate, featuring lush, swampy jungles. The landscape is vibrant with dense vegetation. An astronaut stands in under the poisonous atmosphere.](/assets/img/Venus.png "Venus reimagined with a tropical climate, featuring lush, swampy jungles under a poisonous atmosphere."){:.w3-image}
 
-"In the Walls of Eryx" inspired this quantum-esque game. Written by H.P. Lovecraft and Kenneth Sterling, this story represents one of Lovecraft's only forays into science fiction. It, of course, retains elements of cosmic horror as the protagonist willingly enters an invisible maze while harvesting crystals on Venus. While he quickly finds his way to the large crystal at the center, he may never find a way out. 
+_[In the Walls of Eryx](https://en.wikipedia.org/wiki/In_the_Walls_of_Eryx)_ inspired this quantum-esque game. Written by H.P. Lovecraft and Kenneth Sterling, this story represents one of Lovecraft's only forays into science fiction. It, of course, retains elements of cosmic horror as the protagonist willingly enters an invisible maze while harvesting crystals on Venus. While he quickly finds his way to the large crystal at the center, he may never find a way out. 
 
 <h1 class="w3-text-red">Escape the Venusian Labyrinth!</h1>
 
