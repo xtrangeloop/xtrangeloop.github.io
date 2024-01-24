@@ -1,14 +1,26 @@
+:root {
+  --bg:         rgb(230, 230, 230);
+  --fg:         rgb(25,  25,  25);
+  --bg_code:    rgb(64,  64,  64);
+  --fg_code:    rgb(225, 225, 225);
+  --bg_quote:   rgb(215, 215, 215);
+  --fg_qoute:   rgb(25,  25,  25);
+  --bg_table:   rgb(215, 215, 215);
+  --bg_table_th:rgb(64,  64,  64);
+  --hl_table:   rgb(200, 200, 200);
+}
+
 body {
   max-width: 960px;
   margin: auto;
   padding: 20px;
   
   font-size: calc(15px + 0.390625vw);
-  font-family: FreeMono, sans-serif;
+  font-family: "Courier New", monospace;
   line-height: 1.5;
   
-  background-color: rgb(230, 230, 230);
-  color: rgb(25, 25, 25);
+  background-color: var(--bg);
+  color: var(--fg);
 }
 
 header, header h1, nav {
@@ -29,19 +41,36 @@ main {
   min-height: 100vh;
 }
 
+blockquote {
+  background-color: var(--bg_quote);
+  color: var(--fg_quote);
+  margin: 1em;
+  padding: 0px 5px;
+}
+
 code, pre {
   font-family: 'Courier New', monospace;
-  background-color: rgb(64, 64, 64);
-  color: rgb(225, 225, 225);
-  padding: 0px 3px;
+  background-color: var(--bg_code);
+  color: var(--fg_code);
 }
 
 pre {
   margin: 1em;
+  white-space: pre-wrap;
+  padding: 5px;
+}
+
+code {
+  padding: 0px 5px;
+}
+
+pre > code {
+  word-break: normal;
+  padding: 0px;
 }
 
 footer {
-  color: rgb(127, 127, 127);
+  opacity: 0.6;
   font-style: italic;
 }
 
@@ -64,23 +93,23 @@ table {
 
 table th, table td {
   padding: 5px;
-  border: 1px solid rgb(64, 64, 64);
+  border: 1px solid var(--bg_table_th);
 }
 
 table th {
-  color: rgb(230, 230, 230);
-  background-color: rgb(64, 64, 64);
+  color: var(--bg);
+  background-color: var(--bg_table_th);
 }
 
 table td {
 }
 
 table tr:nth-child(even){
-  background-color: rgb(215, 215, 215);
+  background-color: var(--bg_table);
 }
 
 table tr:hover {
-  background-color: rgb(200, 200, 200);
+  background-color: var(--hl_table);
 }
 
 .footnotes li {
@@ -101,7 +130,7 @@ table tr:hover {
   left: -45px;
   pointer-events: none;
   content: "";
-  border: 2px solid rgb(25, 25, 25);
+  border: 2px solid var(--fg);
   border-radius: 5px;
 }
 
