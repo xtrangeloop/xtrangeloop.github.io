@@ -16,7 +16,7 @@ body {
   padding: 20px;
   
   font-size: calc(12px + 0.390625vw);
-  font-family: "DejaVu Sans Mono", monospace;
+  font-family: "Andale Mono", monospace;
   line-height: 1.5;
   
   background-color: var(--bg);
