@@ -15,8 +15,8 @@ body {
   margin: auto;
   padding: 20px;
   
-  font-size: calc(15px + 0.390625vw);
-  font-family: "Courier New", monospace;
+  font-size: calc(12px + 0.390625vw);
+  font-family: "DejaVu Sans Mono", monospace;
   line-height: 1.5;
   
   background-color: var(--bg);
