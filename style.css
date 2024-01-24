@@ -118,6 +118,8 @@ ul.star {
 .star li:before {
   content: '܍';
   margin-left: -14px;
+  direction: ltr;
+  unicode-bidi: bidi-override;
 }
 
 
