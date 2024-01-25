@@ -4,7 +4,7 @@ permalink: "/contact.html"
 description: "About Me."
 ---
 
-<h1>Welcome to my {{ site.description }}.</h1>
+<h1>Welcome to my blog of {{ site.description }}.</h1>
 
 A virtual [salon](https://en.wikipedia.org/wiki/Salon_%28gathering%29#Salons_outside_of_France), in the traditional sense.
 
