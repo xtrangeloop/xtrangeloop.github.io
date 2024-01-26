@@ -5,7 +5,10 @@ description: "Snowfall in the City of Rockets"
 
 # {{ page.title }}
 
-Our cosmic journey came to an icy halt as we hibernated for an extra week in Huntsville, Alabama, which proudly embraces the moniker Rocket City for its pivotal role in propelling humans into space. Yet, in a delightful twist of fate, we found ourselves grounded; navigating a rather unexpected southern terrestrial phenomenon: snow and ice! 
+Our cosmic journey came to an icy halt as we hibernated for an extra week in Huntsville, Alabama —— which proudly embraces its moniker of Rocket City for its pivotal role in propelling humans into space. 
+
+Yet, in a delightful twist of fate, we found ourselves grounded; 
+                    navigating a rather unexpected southern terrestrial phenomenon: snow and ice! 
 
 ![Timelapse of snowy roads in Huntsville, Alabama taken on 15 January.](/assets/img/SnowDay.mov "Timelapse of snowy roads in Huntsville, Alabama taken on 15 January.")
 
