@@ -5,12 +5,7 @@ description: "Uncharted Play in Rocket City"
 
 # {{ page.title }}
 
-Building on your experience at the U.S. Space & Rocket Center in Huntsville, here’s a blog post entry:
-
----
-
-**"Extended Orbit in Huntsville: A Private Universe at the Space Center"**
-
+<!---
 Sometimes, the universe conspires in mysterious ways, turning what seems like a setback into a golden opportunity. Our unexpected extended stay in Huntsville led us to one of our journey’s highlights - a visit to the U.S. Space & Rocket Center, which, to our delightful surprise, became my favorite space center so far!
 
 The center was eerily quiet, thanks to the recent icy spell, making our visit feel like we'd stepped into our own private cosmos. This serendipity granted us what felt like VIP access to the wonders of space exploration.
@@ -32,5 +27,5 @@ Until the next starry update, keep exploring and embracing the unexpected. The u
 --- 
 
 This post captures the sense of adventure and discovery during your extended visit to the U.S. Space & Rocket Center, emphasizing the joy and learning that came with this unexpected turn in your travels.
-
+-->
 
