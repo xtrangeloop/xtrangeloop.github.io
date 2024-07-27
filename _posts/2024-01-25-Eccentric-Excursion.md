@@ -5,7 +5,6 @@ description: "Uncharted Play in Rocket City"
 
 # {{ page.title }}
 
-<!---
 Sometimes, the universe conspires in mysterious ways, turning what seems like a setback into a golden opportunity. Our unexpected extended stay in Huntsville led us to one of our journey’s highlights - a visit to the U.S. Space & Rocket Center, which, to our delightful surprise, became my favorite space center so far!
 
 The center was eerily quiet, thanks to the recent icy spell, making our visit feel like we'd stepped into our own private cosmos. This serendipity granted us what felt like VIP access to the wonders of space exploration.
@@ -23,9 +22,3 @@ Our visit to the U.S. Space & Rocket Center was more than just an exploration of
 As we bid farewell to Huntsville, we do so with hearts full of gratitude for the unexpected turns that led us to such a memorable experience. It’s a reminder that sometimes, the best adventures are the ones we never planned.
 
 Until the next starry update, keep exploring and embracing the unexpected. The universe has a way of surprising us with its wonders!
-
---- 
-
-This post captures the sense of adventure and discovery during your extended visit to the U.S. Space & Rocket Center, emphasizing the joy and learning that came with this unexpected turn in your travels.
--->
-
